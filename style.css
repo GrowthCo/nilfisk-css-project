@@ -12,4 +12,34 @@ body form.form input {
     -webkit-box-shadow: inset 0px 2px 3px #dddddd !important;
     -moz-box-shadow: inset 0px 2px 3px #dddddd !important;
     border-radius: 5px !important;
+    width: 266px !important;
+    font-size: 23px !important;
+    line-height: 23px !important;
+    height: 32px !important;
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+}
+
+body form.form input[type=submit] {
+	display: block !important;
+    border-style: none !important;
+    border-radius: 63px !important;
+    left: 0px !important;
+    top: 288px !important;
+    z-index: 5 !important;
+    width: 276px !important;
+    height: 73px !important;
+    position: absolute !important;
+    background: rgba(247,148,29,1) !important;
+    box-shadow: inset 0px 1px 0px #ffbb6a,inset 0 -1px 2px #c37517 !important;
+    text-shadow: 1px 1px #521601 !important;
+    color: #fff !important;
+    border-width: undefinedpx !important;
+    border-color: #undefined !important;
+    font-size: 16px !important;
+    line-height: 19px !important;
+    font-weight: normal !important;
+    font-family: Ubuntu !important;
+    text-align: center !important;
+    background-repeat: no-repeat !important;
 }
