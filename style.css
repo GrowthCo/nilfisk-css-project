@@ -4,6 +4,7 @@ body form.form p.form-field label.field-label {
 }
 body form.form p.form-field.required {
 	font-weight: 400 !important;
+
 }
 body form.form input {
 	background-color: #ffffff !important;
@@ -42,4 +43,18 @@ body form.form input[type=submit] {
     font-family: Ubuntu !important;
     text-align: center !important;
     background-repeat: no-repeat !important;
+    margin: 20px !important;
+}
+
+body form.form input[type=submit] span {
+	position: absolute !important;
+    top: 50% !important;
+    display: block !important;
+    text-align: center !important;
+    left: 0 !important;
+    right: 0 !important;
+    padding: 0 8px 0 8px !important;
+    cursor: pointer !important;
+    margin-top: -10px !important;
+    font-family: Ubuntu !important;
 }
