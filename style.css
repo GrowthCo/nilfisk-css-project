@@ -2,3 +2,14 @@ body form.form p.form-field label.field-label {
 	text-align: left !important;
 	float: none !important;
 }
+body form.form p.form-field.required {
+	font-weight: 400 !important;
+}
+body form.form input {
+	background-color: #ffffff !important;
+    color: #000000 !important;
+    box-shadow: inset 0px 2px 3px #dddddd !important;
+    -webkit-box-shadow: inset 0px 2px 3px #dddddd !important;
+    -moz-box-shadow: inset 0px 2px 3px #dddddd !important;
+    border-radius: 5px !important;
+}
