@@ -1,3 +1,4 @@
 body form.form p.form-field label.field-label {
-	text-align: left;
+	text-align: left !important;
+	float: none !important;
 }
