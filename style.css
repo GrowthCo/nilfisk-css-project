@@ -1,6 +1,7 @@
 body form.form p.form-field label.field-label {
 	text-align: left !important;
 	float: none !important;
+	width: 100% !important;
 }
 body form.form p.form-field.required {
 	font-weight: 400 !important;
@@ -26,7 +27,7 @@ body form.form input[type=submit] {
     border-style: none !important;
     border-radius: 63px !important;
     left: 0px !important;
-    top: 288px !important;
+    bottom: 80px !important;
     z-index: 5 !important;
     width: 276px !important;
     height: 73px !important;
