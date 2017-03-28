@@ -1,6 +1,6 @@
 body form.form {
-	position: relative;	
-	padding-bottom: 100px;
+	position: relative !important;	
+	padding-bottom: 100px !important;
 }
 body form.form p.form-field label.field-label {
 	text-align: left !important;
