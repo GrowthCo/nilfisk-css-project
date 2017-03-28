@@ -6,6 +6,7 @@ body form.form p.form-field label.field-label {
 	text-align: left !important;
 	float: none !important;
 	width: 100% !important;
+	color: white !important;
 }
 body form.form p.form-field.required {
 	font-weight: 400 !important;
