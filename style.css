@@ -36,7 +36,7 @@ body form.form input[type=submit] {
     border-style: none !important;
     border-radius: 63px !important;
     left: 0px !important;
-    bottom: 80px !important;
+    bottom: 0px !important;
     z-index: 5 !important;
     width: 276px !important;
     height: 73px !important;
